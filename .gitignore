@@ -1,2 +1,2 @@
-BACK/node_modules/
-BACK/.env
+node_modules/
+.env
